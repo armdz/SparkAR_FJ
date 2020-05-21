@@ -10,6 +10,14 @@ Hay un **BUG** en Spark Ar, que no permite guardar los valores en los parametros
 
 ![alt text](img/bug.gif)  
 
+**ScrollTexture**
+
+Este patch es para scrollear texturas y generar mapas, para esto es necesario que la resolución sea potencia de 2 *ejemplo: 128x128, 256x256, 512x512*   
+Luego este setting en Spark AR
+
+![alt text](img/scroll.gif)
+
+
 ### SAMPLES
 
 ![alt text](img/bc.gif)
