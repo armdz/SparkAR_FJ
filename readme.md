@@ -39,6 +39,7 @@ Mejor si es una textura que loopea en los bordes
 ![alt text](img/map.gif)
 ![alt text](img/rgb.gif)
 ![alt text](img/trans.gif)
+![alt text](img/poster.gif)
 
 *
 
