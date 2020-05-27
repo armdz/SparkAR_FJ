@@ -8,13 +8,6 @@ Hay algunos ejemplos para los patchs mas complejos
 
 ## ⚠️
 
- 
-Hay un **BUG** en Spark Ar, que no permite guardar los valores en los parametros de los patchs, la solución a esto, es una vez que arrastramos el patch en el Node Editor, hacemos click derecho y seleccionamos *"Convert to Patch Group"*
-
-![alt text](img/bug.gif)  
-
-*De paso se puede ver como estan hechos*
-
 **ScrollTexture**
 
 Este patch es para scrollear texturas y generar mapas, para esto es necesario que la resolución sea potencia de 2:  
